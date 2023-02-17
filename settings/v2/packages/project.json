@@ -1,0 +1,19 @@
+{
+  "general": {
+    "highQuality": true
+  },
+  "__version__": "1.0.4",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "physics": {
+    "gravity": {
+      "y": -10
+    },
+    "collisionMatrix": {
+      "0": 1
+    }
+  }
+}

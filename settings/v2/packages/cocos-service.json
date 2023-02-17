@@ -1,0 +1,43 @@
+{
+  "__version__": "3.0.5",
+  "game": {
+    "app_id": "652591440",
+    "name": "3D_ROLL_BOX",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "39930b"
+    },
+    {
+      "app_id": "652591440",
+      "config_id": "c9c8b5"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "39930b",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "652591440",
+      "config_id": "c9c8b5",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {
+            "app_id": "652591440",
+            "store_id": "160564"
+          }
+        }
+      ]
+    }
+  ]
+}
