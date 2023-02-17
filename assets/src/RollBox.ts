@@ -12,6 +12,8 @@ const { ccclass, property } = _decorator;
 /**
  * 
 108.160.172.200 github.global.ssl.fastly.net
+13.114.40.48 github.com
+140.82.113.4 github.com
  * rollBox object
  * main operate object in game
  */
